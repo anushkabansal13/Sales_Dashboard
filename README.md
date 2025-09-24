@@ -19,13 +19,10 @@ Power BI Dashboard – Enhanced with drill-through analysis, slicers, and KPI ca
 
 ## 🎯 Objectives
 
-Analyze sales performance across regions, categories, and segments
-
-Identify top-selling products and peak sales months
-
-Compare Excel vs. Power BI dashboards to showcase visualization capabilities
-
-Derive actionable insights for profit optimization and strategy planning
+- Analyze sales performance across regions, categories, and segments
+- Identify top-selling products and peak sales months
+- Compare Excel vs. Power BI dashboards to showcase visualization capabilities
+- Derive actionable insights for profit optimization and strategy planning
 
 ---
 
@@ -42,8 +39,8 @@ Derive actionable insights for profit optimization and strategy planning
 ## 🛠️ Tools Used
 
 Microsoft Excel – Pivot Tables, Pivot Charts, Slicers, Conditional Formatting
-
 Power BI – DAX Measures, Interactive Filters, KPI Cards, Drilldowns
+
 ---
 
 ## 📈 Excel Dashboard Features
@@ -59,7 +56,7 @@ Power BI – DAX Measures, Interactive Filters, KPI Cards, Drilldowns
 
 ---
 
-Power BI Dashboard
+## 🔵 Power BI Dashboard
 
 - Dynamic KPI Cards (Sales, Profit, Profit Margin %)
 - Drillable Bar Charts & Tree Maps for Product/Category Analysis
@@ -113,7 +110,7 @@ The dashboard provides a clear and interactive view of sales trends and business
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo
 
 If you have published your Power BI report online, add a link here:
 🔗 View Interactive Power BI Dashboard [https://app.powerbi.com/links/n3awNsYiWp?ctid=9d01a877-a16b-4479-98e9-5d2f84f9e91c&pbi_source=linkShare&bookmarkGuid=eefe3585-e072-4931-b9a9-0d589d12e274]
