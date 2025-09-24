@@ -39,6 +39,7 @@ Power BI Dashboard – Enhanced with drill-through analysis, slicers, and KPI ca
 ## 🛠️ Tools Used
 
 Microsoft Excel – Pivot Tables, Pivot Charts, Slicers, Conditional Formatting
+
 Power BI – DAX Measures, Interactive Filters, KPI Cards, Drilldowns
 
 ---
